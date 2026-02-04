@@ -64,6 +64,9 @@ cm_display.plot()
 ```
 
 ## Output:
+<img width="583" height="342" alt="Screenshot 2026-02-04 105601" src="https://github.com/user-attachments/assets/1cb2f696-e5de-4398-84c3-32d88c0e517f" />
+<img width="903" height="599" alt="Screenshot 2026-02-04 105615" src="https://github.com/user-attachments/assets/4dfe4113-77c3-4328-9ef8-eb2b3962dc4e" />
+
 
 
 
